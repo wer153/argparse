@@ -1,2 +1,2 @@
 # argparse
-argpars연습
+argparse연습
